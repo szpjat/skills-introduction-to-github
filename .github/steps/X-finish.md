@@ -14,6 +14,7 @@ Here's a recap of your accomplishments:
 - You learned about GitHub, repositories, branches, commits, and pull requests.
 - You created a branch, a commit, and a pull request.
 - You merged a pull request.
+- You learned how to initialize a new repository and push to GitHub.
 - You made your first contribution! :tada:
 
 ### What's next?
